@@ -1,4 +1,4 @@
-﻿ "Año" ; "País" ; "esperanza de vida" ; "PIB" ; "PIB per cápita" ; "Emisiones CO2" ; "Emisiones CO2 per cápita" ; "Tasa de natalidad" ; "Tasa de mortalidad" ; "Población"
+Variables : ( "Año" ; "País" ; "esperanza de vida" ; "PIB" ; "PIB per cápita" ; "Emisiones CO2" ; "Emisiones CO2 per cápita" ; "Tasa de natalidad" ; "Tasa de mortalidad" ; "Población")
 1998;Argentina;73.21;324242;9005;148055;4.09;19.95;7.88;36005000
 1998;Bolivia;61.2;8490;1058;8362;1.04;31.33;9.96;8026000
 1998;Brasil;69.42;865115;5128;332466;1.95;21.15;6.28;168693000
